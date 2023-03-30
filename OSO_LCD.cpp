@@ -4,7 +4,7 @@
 
 #include "OSO_LCD.h"
 
-static const PROGMEM uint8_t CHARS[] = {
+static const uint8_t CHARS[] = {
     0b00000000, // [space]
     0b00101100, // !
     0b01001000, // "
